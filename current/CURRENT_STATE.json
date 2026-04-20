@@ -1,0 +1,52 @@
+{
+  "generated_at": "2026-04-20T16:57:19",
+  "project": "rutatu_wb_agent",
+  "dashboard_version": "v1.1",
+  "active_model": "production_backed",
+  "current_state": "PRODUCTION_IN_PROGRESS",
+  "total_sku": 285,
+  "real_positive_economics_count": 60,
+  "real_negative_economics_count": 55,
+  "placeholder_50_count": 170,
+  "missing_economics_count": 0,
+  "packaging_missing_count": 0,
+  "hard_blocker_count": 0,
+  "warning_count": 227,
+  "active_draft": {
+    "warehouse": "Электросталь",
+    "status": "PRODUCTION_IN_PROGRESS",
+    "sku_count": 15,
+    "qty": 282,
+    "boxes": 1,
+    "production_due_at": "2026-04-21"
+  },
+  "profit_engine": {
+    "finance_api_available": true,
+    "ads_api_available": true,
+    "cogs_file_available": false,
+    "closed_pnl_available": false,
+    "placeholder_economics_remaining": 170,
+    "missing_tokens": [],
+    "missing_files": [
+      "data/input/cogs.csv"
+    ]
+  },
+  "wb_seller_stock_clear": {
+    "status": "active",
+    "seller_warehouses_found": 1,
+    "sku_to_zero": 62,
+    "units_to_zero": 1367,
+    "last_preflight_at": "2026-04-20T16:57:10",
+    "last_execution_at": null
+  },
+  "files": {
+    "index_md": "INDEX.md",
+    "current_state_json": "CURRENT_STATE.json",
+    "store_dashboard_report": "STORE_DASHBOARD_REPORT_FOR_CHATGPT.md",
+    "data_truth_reconciliation": "DATA_TRUTH_RECONCILIATION.md",
+    "action_board": "ACTION_BOARD_FOR_CHATGPT.md",
+    "dashboard_summary": "DASHBOARD_SUMMARY_FOR_CHATGPT.md",
+    "restock_current": "RESTOCK_CURRENT_FOR_CHATGPT.md",
+    "data_quality": "DATA_QUALITY_FOR_CHATGPT.md"
+  }
+}

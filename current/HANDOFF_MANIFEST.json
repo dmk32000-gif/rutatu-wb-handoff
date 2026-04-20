@@ -1,0 +1,129 @@
+{
+  "generated_at": "2026-04-20T16:57:19",
+  "source_project_path": "D:\\Claude\\Code\\wb-restock-agent",
+  "handoff_local_path": "data\\output\\chatgpt_handoff\\current",
+  "public_base_url": null,
+  "redaction_check_status": "passed",
+  "files": [
+    {
+      "filename": "ACTION_BOARD_FOR_CHATGPT.md",
+      "status": "present",
+      "sha256": "274a3fbc32b8327c5ebb62fb8eb3844ae68ef088786c4d5748d3068c5a5f8aac",
+      "size_bytes": 6084,
+      "safe_to_publish": true,
+      "reason_if_not_safe": null
+    },
+    {
+      "filename": "CURRENT_STATE.json",
+      "status": "present",
+      "sha256": "9516d86553b54070e5d98a466013b57e65ad71bb06270b807223a4c09e93109f",
+      "size_bytes": 1645,
+      "safe_to_publish": true,
+      "reason_if_not_safe": null
+    },
+    {
+      "filename": "DASHBOARD_SUMMARY_FOR_CHATGPT.md",
+      "status": "present",
+      "sha256": "c70e53a289788f142f060a5d3ec62d482845bd43c15c5b275b5cfc904a610854",
+      "size_bytes": 1528,
+      "safe_to_publish": true,
+      "reason_if_not_safe": null
+    },
+    {
+      "filename": "DATA_QUALITY_FOR_CHATGPT.md",
+      "status": "present",
+      "sha256": "3c47ddc8e5da9f95a8a95c27088505a9f59c75fe34951e219f622e6455f9dff7",
+      "size_bytes": 4130,
+      "safe_to_publish": true,
+      "reason_if_not_safe": null
+    },
+    {
+      "filename": "DATA_TRUTH_RECONCILIATION.md",
+      "status": "present",
+      "sha256": "c00278553e2ebf12468e505e5271396aebbc6a571d79dd6f9b7529e829db59a8",
+      "size_bytes": 3092,
+      "safe_to_publish": true,
+      "reason_if_not_safe": null
+    },
+    {
+      "filename": "INDEX.md",
+      "status": "present",
+      "sha256": "4968e4f0165718016807612af73901127412ed365046823cfe41d65fcce67963",
+      "size_bytes": 3417,
+      "safe_to_publish": true,
+      "reason_if_not_safe": null
+    },
+    {
+      "filename": "P_AND_L_SOURCE_MATRIX.md",
+      "status": "present",
+      "sha256": "113e75f56795a44d8b7818f9594308403ab4fb361d6e20c159128096108fde7a",
+      "size_bytes": 4165,
+      "safe_to_publish": true,
+      "reason_if_not_safe": null
+    },
+    {
+      "filename": "RESTOCK_CURRENT_FOR_CHATGPT.md",
+      "status": "present",
+      "sha256": "d17f161fed280d065a18dfb06c93201f56591daf06dc7c9bed9de98f3c6adcc1",
+      "size_bytes": 2596,
+      "safe_to_publish": true,
+      "reason_if_not_safe": null
+    },
+    {
+      "filename": "RUN_STATUS.md",
+      "status": "present",
+      "sha256": "40f836c565dfb749a6081662efaa3764363116e1a95e1aa15fd3a5de8fa01149",
+      "size_bytes": 432,
+      "safe_to_publish": true,
+      "reason_if_not_safe": null
+    },
+    {
+      "filename": "STORE_DASHBOARD_REPORT_FOR_CHATGPT.md",
+      "status": "present",
+      "sha256": "a81295bfd4e34d1bf9966afd58476b175492d30091221919238488c323d3f657",
+      "size_bytes": 9047,
+      "safe_to_publish": true,
+      "reason_if_not_safe": null
+    },
+    {
+      "filename": "UNIT_ECONOMICS_COMPLETION_PLAN.md",
+      "status": "present",
+      "sha256": "7787014a00d603bd3b2c9f80604a69a09b44ebaebaf74a663a30697f4e79bec9",
+      "size_bytes": 31784,
+      "safe_to_publish": true,
+      "reason_if_not_safe": null
+    },
+    {
+      "filename": "WB_API_ACCESS_AUDIT.md",
+      "status": "present",
+      "sha256": "d3ac6bfaf371ab3fde44ea80aa1db4ba725a0ff0e34a2db4e70fc94b574e932f",
+      "size_bytes": 4034,
+      "safe_to_publish": true,
+      "reason_if_not_safe": null
+    },
+    {
+      "filename": "WB_SELLER_STOCK_CLEAR_DRY_RUN.md",
+      "status": "present",
+      "sha256": "e126f8f525a01875fbaf7a658fc49468bbcf45dd4710e3fe1bc17494de155d62",
+      "size_bytes": 4615,
+      "safe_to_publish": true,
+      "reason_if_not_safe": null
+    },
+    {
+      "filename": "WB_SELLER_STOCK_CLEAR_EXECUTION.md",
+      "status": "missing",
+      "sha256": null,
+      "size_bytes": null,
+      "safe_to_publish": true,
+      "reason_if_not_safe": null
+    },
+    {
+      "filename": "WB_SELLER_STOCK_CLEAR_PREFLIGHT.md",
+      "status": "present",
+      "sha256": "1fcfff2c2180c6c7b476f4ed35fa9614983ebbe3aec6b88cde140289ee232afc",
+      "size_bytes": 957,
+      "safe_to_publish": true,
+      "reason_if_not_safe": null
+    }
+  ]
+}
