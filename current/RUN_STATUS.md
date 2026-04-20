@@ -1,6 +1,6 @@
 # RUN_STATUS
 
-current_state: PRODUCTION_IN_PROGRESS
+current_state: PRODUCTION_COMPLETED_PENDING_SUBMIT_CHECK
 active_model: production_backed
 warehouse: Электросталь
 total_sku: 15
@@ -8,7 +8,10 @@ total_qty: 282
 boxes: 1
 production_order_sent_at: 2026-04-19
 production_due_at: 2026-04-21
+production_completed_at: 2026-04-20
+shipment_ready_at: 2026-04-21
 do_not_submit_to_wb_before: 2026-04-21
 do_not_book_fox2box_before: 2026-04-21
 human_production_file: data/output/current/production_order.xlsx
 chatgpt_handoff_file: data/output/current/REPORT_FOR_CHATGPT.md
+status_updated_at: 2026-04-20

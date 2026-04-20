@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-04-20T18:39:13",
+  "generated_at": "2026-04-20T19:27:00",
   "project": "rutatu_wb_agent",
   "dashboard_version": "v1.1",
   "active_model": "production_backed",
-  "current_state": "PRODUCTION_IN_PROGRESS",
+  "current_state": "PRODUCTION_COMPLETED_PENDING_SUBMIT_CHECK",
   "total_sku": 285,
   "real_positive_economics_count": 60,
   "real_negative_economics_count": 55,
@@ -14,7 +14,7 @@
   "warning_count": 257,
   "active_draft": {
     "warehouse": "Электросталь",
-    "status": "PRODUCTION_IN_PROGRESS",
+    "status": "PRODUCTION_COMPLETED_PENDING_SUBMIT_CHECK",
     "sku_count": 15,
     "qty": 282,
     "boxes": 1,
@@ -45,7 +45,7 @@
     "delete_inventory_used": false,
     "last_execution_at": "2026-04-20T17:03:57",
     "last_verify_at": "2026-04-20T17:03:57",
-    "last_preflight_at": "2026-04-20T18:38:48"
+    "last_preflight_at": "2026-04-20T19:24:52"
   },
   "files": {
     "index_md": "INDEX.md",

@@ -1,9 +1,9 @@
 # RESTOCK_CURRENT_FOR_CHATGPT
-_Автогенерировано 2026-04-20T18:39:13._
+_Автогенерировано 2026-04-20T19:27:00._
 
 ## Текущий досорт
 
-**Статус:** PRODUCTION_IN_PROGRESS
+**Статус:** PRODUCTION_COMPLETED_PENDING_SUBMIT_CHECK
 **Склад:** Электросталь
 **SKU:** 15
 **Единиц:** 282 шт
