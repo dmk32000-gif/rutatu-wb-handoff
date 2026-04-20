@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-20T16:57:19",
+  "generated_at": "2026-04-20T17:05:40",
   "project": "rutatu_wb_agent",
   "dashboard_version": "v1.1",
   "active_model": "production_backed",
@@ -32,12 +32,12 @@
     ]
   },
   "wb_seller_stock_clear": {
-    "status": "active",
-    "seller_warehouses_found": 1,
-    "sku_to_zero": 62,
-    "units_to_zero": 1367,
-    "last_preflight_at": "2026-04-20T16:57:10",
-    "last_execution_at": null
+    "status": "executed",
+    "seller_warehouses_found": 0,
+    "sku_to_zero": 0,
+    "units_to_zero": 0,
+    "last_preflight_at": "2026-04-20T17:04:51",
+    "last_execution_at": "2026-04-20T17:03:57"
   },
   "files": {
     "index_md": "INDEX.md",

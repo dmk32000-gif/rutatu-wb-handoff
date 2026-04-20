@@ -1,19 +1,19 @@
 # WB_SELLER_STOCK_CLEAR_PREFLIGHT
-_Автогенерировано 2026-04-20T16:57:07._
+_Автогенерировано 2026-04-20T17:04:49._
 
 ## Summary
 
 - Marketplace token available: ✅ Yes
 - Seller warehouses found: 1
-- SKU with FBS stock > 0: 62
-- Total units on seller warehouse: 1367
-- Plan rows (to zero): 62
+- SKU with FBS stock > 0: 0
+- Total units on seller warehouse: 0
+- Plan rows (to zero): 0
 
 ## Seller Warehouses
 
 | ID | Name | SKU with stock | Units | Query status |
 |---|---|---|---|---|
-| 135327 | Мой склад | 62 | 1367 | ok |
+| 135327 | Мой склад | 0 | 0 | ok |
 
 ## Safety
 
