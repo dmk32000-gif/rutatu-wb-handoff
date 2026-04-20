@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-20T19:27:01",
+  "generated_at": "2026-04-20T19:35:37",
   "source_project_path": "D:\\Claude\\Code\\wb-restock-agent",
   "handoff_local_path": "data\\output\\chatgpt_handoff\\current",
   "public_base_url": null,
@@ -8,7 +8,7 @@
     {
       "filename": "ACTION_BOARD_FOR_CHATGPT.md",
       "status": "present",
-      "sha256": "6f0eebb9abe5c60b2a98e871813d7319dd403697589205d9335a2e3537ccaf64",
+      "sha256": "4adcc1d6c6ef06d762947ebd9d2c5c9a9449925f7ab4577f399dba1a1a1d1c17",
       "size_bytes": 6185,
       "safe_to_publish": true,
       "reason_if_not_safe": null
@@ -16,23 +16,23 @@
     {
       "filename": "CURRENT_STATE.json",
       "status": "present",
-      "sha256": "cdee626fbc8b73c27ae408c7acc7c6c1455c9d96209ec2f59ea71a23c670cb48",
-      "size_bytes": 2036,
+      "sha256": "1e7aae1fb6bb29ea416f5d1be1390753a8fa5712be183475faae297c74ce32c6",
+      "size_bytes": 2034,
       "safe_to_publish": true,
       "reason_if_not_safe": null
     },
     {
       "filename": "DASHBOARD_SUMMARY_FOR_CHATGPT.md",
       "status": "present",
-      "sha256": "eb258f24d587f5e171eb0140817cfb78a3b581581808f987550fb00b52b85360",
-      "size_bytes": 1568,
+      "sha256": "42c0f4aa4db0d63b4f08acc782701c965ebe2d1b4c8a60678b848b7c16492a72",
+      "size_bytes": 1566,
       "safe_to_publish": true,
       "reason_if_not_safe": null
     },
     {
       "filename": "DATA_QUALITY_FOR_CHATGPT.md",
       "status": "present",
-      "sha256": "c39b0e2dfb05fb47be8331005a596f8cadaf1a68c1d1178839a69f0e8eac0ee5",
+      "sha256": "3baca0808734ffebc441f2bd0fa4e2ee9c67e49291d9e82e7be2fce0c7dddbb0",
       "size_bytes": 4130,
       "safe_to_publish": true,
       "reason_if_not_safe": null
@@ -40,7 +40,7 @@
     {
       "filename": "DATA_TRUTH_RECONCILIATION.md",
       "status": "present",
-      "sha256": "ac85d079050a8184ebb479db6e816acfc0e64510ad78ca45d92e48eba88775f2",
+      "sha256": "555e947c796d63820d7bdd6ef7b4c4bdb9aa27d5fc53bb887decf42a5ac3d004",
       "size_bytes": 3092,
       "safe_to_publish": true,
       "reason_if_not_safe": null
@@ -48,8 +48,8 @@
     {
       "filename": "INDEX.md",
       "status": "present",
-      "sha256": "01c8c47c58934a623a30c297d73825d31b58be0f65c00f903401e1465a75b504",
-      "size_bytes": 3576,
+      "sha256": "49698d2a96c2423c1569518385ded36619dc5e4cc93cd2b03c687303758b02e8",
+      "size_bytes": 3573,
       "safe_to_publish": true,
       "reason_if_not_safe": null
     },
@@ -64,24 +64,24 @@
     {
       "filename": "RESTOCK_CURRENT_FOR_CHATGPT.md",
       "status": "present",
-      "sha256": "00c3499c88135a331bd9a592fab4ad45be2060f95d9af44ce5844644b3dac41d",
-      "size_bytes": 2615,
+      "sha256": "0c64b758c15a17e3366dc9c8b374f39109028a515fb856127601f33c5a8643e0",
+      "size_bytes": 2614,
       "safe_to_publish": true,
       "reason_if_not_safe": null
     },
     {
       "filename": "RUN_STATUS.md",
       "status": "present",
-      "sha256": "058daf503f260426a38b37c64a65bb1eb367ca7f8e951f83991b3ae4a1280012",
-      "size_bytes": 547,
+      "sha256": "83ca82a51a163e5b3455deebbec8e01bc1cfcf36f3b1d013f60304622f2a7875",
+      "size_bytes": 626,
       "safe_to_publish": true,
       "reason_if_not_safe": null
     },
     {
       "filename": "STORE_DASHBOARD_REPORT_FOR_CHATGPT.md",
       "status": "present",
-      "sha256": "eb939f941f04e088e2947b292d085a3b247b64f1bc9972bd748fc2475ce9d592",
-      "size_bytes": 8986,
+      "sha256": "245c5a8ed3fa6b36f3781a9e5e013df906aaab366b47fdfc67ff79027dfe7a70",
+      "size_bytes": 8984,
       "safe_to_publish": true,
       "reason_if_not_safe": null
     },
@@ -104,7 +104,7 @@
     {
       "filename": "WB_SELLER_STOCK_CLEAR_DRY_RUN.md",
       "status": "present",
-      "sha256": "42bbbb5396b4c0abdd9bb81a3ac64713aea86b5141289a242b866521dd3bfa7b",
+      "sha256": "9da685508dee6d5313a28197caa972f946f0c8e67e629c965e72a0548339446d",
       "size_bytes": 952,
       "safe_to_publish": true,
       "reason_if_not_safe": null
@@ -120,7 +120,7 @@
     {
       "filename": "WB_SELLER_STOCK_CLEAR_PREFLIGHT.md",
       "status": "present",
-      "sha256": "37283c80fbd097e058ab96ab333b911087255e5ab6eb03d519d59dcce68df37a",
+      "sha256": "7e6afcd48718f9ff7a47c429897953730b48b6a9031d85c0bfe0f75cda0da007",
       "size_bytes": 948,
       "safe_to_publish": true,
       "reason_if_not_safe": null

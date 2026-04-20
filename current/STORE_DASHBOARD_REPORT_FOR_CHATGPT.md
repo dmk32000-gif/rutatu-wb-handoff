@@ -1,5 +1,5 @@
 # STORE_DASHBOARD_REPORT_FOR_CHATGPT
-_Автогенерировано 2026-04-20T19:27. Передавать в ChatGPT вместо zip._
+_Автогенерировано 2026-04-20T19:35. Передавать в ChatGPT вместо zip._
 
 ---
 
@@ -102,7 +102,7 @@ _Автогенерировано 2026-04-20T19:27. Передавать в Chat
 | Кандидаты на досорт (при партии) | 49 |
 | Блокеры качества данных | 0 |
 | Производство активно | Нет |
-| Статус черновика | PRODUCTION_COMPLETED_PENDING_SUBMIT_CHECK |
+| Статус черновика | SUBMITTED_TO_WB_PENDING_FOX2BOX_HANDOVER |
 
 ---
 
@@ -110,7 +110,7 @@ _Автогенерировано 2026-04-20T19:27. Передавать в Chat
 
 | Параметр | Значение |
 |---|---|
-| Статус | PRODUCTION_COMPLETED_PENDING_SUBMIT_CHECK |
+| Статус | SUBMITTED_TO_WB_PENDING_FOX2BOX_HANDOVER |
 | Склад | Электросталь |
 | SKU | 15 |
 | Единиц | 282 шт |

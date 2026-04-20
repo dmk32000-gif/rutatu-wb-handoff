@@ -1,6 +1,6 @@
 # RUN_STATUS
 
-current_state: PRODUCTION_COMPLETED_PENDING_SUBMIT_CHECK
+current_state: SUBMITTED_TO_WB_PENDING_FOX2BOX_HANDOVER
 active_model: production_backed
 warehouse: Электросталь
 total_sku: 15
@@ -9,6 +9,8 @@ boxes: 1
 production_order_sent_at: 2026-04-19
 production_due_at: 2026-04-21
 production_completed_at: 2026-04-20
+submitted_to_wb_at: 2026-04-20
+wb_supply_id: WB-GI-232254686
 shipment_ready_at: 2026-04-21
 do_not_submit_to_wb_before: 2026-04-21
 do_not_book_fox2box_before: 2026-04-21
