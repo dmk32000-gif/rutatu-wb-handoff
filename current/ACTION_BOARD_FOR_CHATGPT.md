@@ -1,9 +1,9 @@
 # ACTION_BOARD_FOR_CHATGPT
-_Автогенерировано 2026-04-20T17:05:40._
+_Автогенерировано 2026-04-20T17:50:52._
 
 ## Доска действий
 
-| Артикул | Действие | Причина | Риск | Статус |
+| Артикул / Система | Действие | Причина | Риск | Статус |
 |---|---|---|---|---|
 | 471-10х48-lotus | В производстве | active_production_order | low | in_progress |
 | RUTATUslv375-16x48-rose | В производстве | active_production_order | low | in_progress |
@@ -35,12 +35,10 @@ _Автогенерировано 2026-04-20T17:05:40._
 | 356-24x32-lotus | Досортить при партии | transport_share_above_hard_gate | low | waiting_for_batch |
 | 289-16x24-pistol | Досортить при партии | transport_share_above_hard_gate | low | waiting_for_batch |
 | 110-16x24-lotus | В производстве | active_production_order | low | in_progress |
-| 507-12х32-flowers-tenderness | Исправить данные | no_packaging_profile | high | blocked |
 | 236-12x16-babochka | Досортить при партии | transport_share_above_hard_gate | low | waiting_for_batch |
 | 340-24x32-lion | Досортить при партии | transport_share_above_hard_gate | low | waiting_for_batch |
 | 144-12x16-twigs | В производстве | active_production_order | low | in_progress |
 | 379-24x32-zmeya-drakon-pistolet | Досортить при партии | transport_share_above_hard_gate | low | waiting_for_batch |
-| 515-12х32-strips | Исправить данные | no_packaging_profile | high | blocked |
 | 075-16x24-cross | В производстве | active_production_order | low | in_progress |
 | RUTATUani362-12x16-bear | В производстве | active_production_order | low | in_progress |
 | 159-12x16-pitbull | В производстве | active_production_order | low | in_progress |
@@ -50,8 +48,10 @@ _Автогенерировано 2026-04-20T17:05:40._
 | RUTATUorn206-8x24-floral | В производстве | active_production_order | low | in_progress |
 | 155-17x5-gold-silver | В производстве | active_production_order | low | in_progress |
 | 262-17x5-silver | Досортить при партии | transport_share_above_hard_gate | low | waiting_for_batch |
-| 511-12x32-lily | Исправить данные | no_packaging_profile | high | blocked |
 | 399-12x16-tsveti | В производстве | active_production_order | low | in_progress |
 | 078-17x5-snows | Досортить при партии | transport_share_above_hard_gate | low | waiting_for_batch |
 | 291-8x24-nadpisi-ya-tebya-lublu | Досортить при партии | transport_share_above_hard_gate | low | waiting_for_batch |
 | RUTATUWRD477-12x16-nadpisi | Досортить при партии | transport_share_above_hard_gate | low | waiting_for_batch |
+| SYSTEM | FBS seller stock cleared | Обнуление выполнено: 62 rows / 0 units | low | completed |
+| SYSTEM | Заполнить экономику | 170 SKU с placeholder 50 ₽ | medium | pending |
+| SYSTEM | Заполнить cogs.csv | Себестоимость отсутствует → чистая прибыль неполная | medium | pending |

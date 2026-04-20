@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-20T17:05:40",
+  "generated_at": "2026-04-20T17:50:52",
   "project": "rutatu_wb_agent",
   "dashboard_version": "v1.1",
   "active_model": "production_backed",
@@ -36,8 +36,16 @@
     "seller_warehouses_found": 0,
     "sku_to_zero": 0,
     "units_to_zero": 0,
-    "last_preflight_at": "2026-04-20T17:04:51",
-    "last_execution_at": "2026-04-20T17:03:57"
+    "seller_warehouse_id": 135327,
+    "seller_warehouse_name": "Мой склад",
+    "last_execution_rows_updated": 62,
+    "last_execution_units_zeroed": 0,
+    "last_execution_verified_zero_rows": 62,
+    "remaining_seller_stock_units": 0,
+    "delete_inventory_used": false,
+    "last_execution_at": "2026-04-20T17:03:57",
+    "last_verify_at": "2026-04-20T17:03:57",
+    "last_preflight_at": "2026-04-20T17:48:29"
   },
   "files": {
     "index_md": "INDEX.md",
