@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-20T17:50:52",
+  "generated_at": "2026-04-20T17:56:18",
   "source_project_path": "D:\\Claude\\Code\\wb-restock-agent",
   "handoff_local_path": "data\\output\\chatgpt_handoff\\current",
   "public_base_url": null,
@@ -8,23 +8,23 @@
     {
       "filename": "ACTION_BOARD_FOR_CHATGPT.md",
       "status": "present",
-      "sha256": "92722e8142d3ddf26e5af188d76706a35b253b40a8819766186234e9934b7501",
-      "size_bytes": 6182,
+      "sha256": "09e56d4bd33f0436b6a8a20acbe380945db46fdea173466ebfb67b30a1569680",
+      "size_bytes": 6185,
       "safe_to_publish": true,
       "reason_if_not_safe": null
     },
     {
       "filename": "CURRENT_STATE.json",
       "status": "present",
-      "sha256": "772db5ee125e9fc0e921feb3d6c15e93ebcde3df0c869d2a4bcf3cbfd0f8e1d3",
-      "size_bytes": 1995,
+      "sha256": "c1a4cfe502d0fc309f3e76f4395e5c0f1a7c65c39c94a847360a61bf54408fb3",
+      "size_bytes": 1998,
       "safe_to_publish": true,
       "reason_if_not_safe": null
     },
     {
       "filename": "DASHBOARD_SUMMARY_FOR_CHATGPT.md",
       "status": "present",
-      "sha256": "f2a04c84d0ea60edc6965dd6323ad292b29ea5a4933000ceb3af4cd2f9810421",
+      "sha256": "16a8e6c31d6e6a913d9daea00955bb52b5271138765af8a6eb6acfe9f60cd588",
       "size_bytes": 1528,
       "safe_to_publish": true,
       "reason_if_not_safe": null
@@ -32,7 +32,7 @@
     {
       "filename": "DATA_QUALITY_FOR_CHATGPT.md",
       "status": "present",
-      "sha256": "d3bd9d7216271a92d98c1f5e57b78bbec2502333d100dc3bf812c51b893c1af0",
+      "sha256": "038d72d56b61deb5e493e796a05d76b1f73870a9716e0d1883ba20348fc24cd0",
       "size_bytes": 4130,
       "safe_to_publish": true,
       "reason_if_not_safe": null
@@ -40,7 +40,7 @@
     {
       "filename": "DATA_TRUTH_RECONCILIATION.md",
       "status": "present",
-      "sha256": "5f77530c19e087d7d90137bfd36b1f8d5b5499ebab584a4ed52e30fb26ff983b",
+      "sha256": "97075c93caa0e1b9e933e1d458e4cb9edab9d0a6b7ba4761ef22817f2190b755",
       "size_bytes": 3092,
       "safe_to_publish": true,
       "reason_if_not_safe": null
@@ -48,8 +48,8 @@
     {
       "filename": "INDEX.md",
       "status": "present",
-      "sha256": "e7b03fe8c39a676daeae8dddffa0a37de2614e38eb38066b16a6b6a467aad2a3",
-      "size_bytes": 3516,
+      "sha256": "4198aa0bb2e47f587363ef44a1bb81bdfc1a307c253673dc50ff2ddbc8a79b17",
+      "size_bytes": 3519,
       "safe_to_publish": true,
       "reason_if_not_safe": null
     },
@@ -64,7 +64,7 @@
     {
       "filename": "RESTOCK_CURRENT_FOR_CHATGPT.md",
       "status": "present",
-      "sha256": "5781bcd8433f78618f7577c4fe67abce7c81d1a85b40652c6e6675ce0afb1ed0",
+      "sha256": "56befaf36d51a3bf9efc3b0ed8b9391eba0107cb70403bc83ca69e83902259be",
       "size_bytes": 2596,
       "safe_to_publish": true,
       "reason_if_not_safe": null
@@ -80,7 +80,7 @@
     {
       "filename": "STORE_DASHBOARD_REPORT_FOR_CHATGPT.md",
       "status": "present",
-      "sha256": "c775028e29c6e8a9d344d03a32f129bbafb18e75d6f3cda231ede643c068fb1f",
+      "sha256": "587dbe27ed19602a715f8cf407d694ab1ef73ee144caf5555edac6d7b45fdc06",
       "size_bytes": 9047,
       "safe_to_publish": true,
       "reason_if_not_safe": null
@@ -104,7 +104,7 @@
     {
       "filename": "WB_SELLER_STOCK_CLEAR_DRY_RUN.md",
       "status": "present",
-      "sha256": "321ca024d21621345d1e0de02d3fdb686cdebca80ff602acd19d55438a21d4c9",
+      "sha256": "71d8cd1e88a214bac5f2f09590f5b0d2677fb7d8d8224a0a006d946d697292fb",
       "size_bytes": 952,
       "safe_to_publish": true,
       "reason_if_not_safe": null
@@ -120,7 +120,7 @@
     {
       "filename": "WB_SELLER_STOCK_CLEAR_PREFLIGHT.md",
       "status": "present",
-      "sha256": "b53d2b6d0a6826db0641c7d94bbdb76c7159ded9e6a26f18af9a4b79ce246636",
+      "sha256": "34f1acdbe816b0c745be36cbba422488e9a6931d260fea90d79d2ff8db40e029",
       "size_bytes": 948,
       "safe_to_publish": true,
       "reason_if_not_safe": null
@@ -128,7 +128,7 @@
     {
       "filename": "WB_SELLER_STOCK_MONITOR.md",
       "status": "present",
-      "sha256": "44603635b5bf5cec9de5695bf84c15b1ce6be79f7b2c3abe40c87db5692449cf",
+      "sha256": "64789bf168cbcf668696c420d21548b8a63169da9576dd17376c0086b9c2b167",
       "size_bytes": 472,
       "safe_to_publish": true,
       "reason_if_not_safe": null

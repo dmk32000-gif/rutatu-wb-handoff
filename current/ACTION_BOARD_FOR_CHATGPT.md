@@ -1,5 +1,5 @@
 # ACTION_BOARD_FOR_CHATGPT
-_Автогенерировано 2026-04-20T17:50:52._
+_Автогенерировано 2026-04-20T17:56:18._
 
 ## Доска действий
 
@@ -52,6 +52,6 @@ _Автогенерировано 2026-04-20T17:50:52._
 | 078-17x5-snows | Досортить при партии | transport_share_above_hard_gate | low | waiting_for_batch |
 | 291-8x24-nadpisi-ya-tebya-lublu | Досортить при партии | transport_share_above_hard_gate | low | waiting_for_batch |
 | RUTATUWRD477-12x16-nadpisi | Досортить при партии | transport_share_above_hard_gate | low | waiting_for_batch |
-| SYSTEM | FBS seller stock cleared | Обнуление выполнено: 62 rows / 0 units | low | completed |
+| SYSTEM | FBS seller stock cleared | Обнуление выполнено: 62 rows / 1367 units | low | completed |
 | SYSTEM | Заполнить экономику | 170 SKU с placeholder 50 ₽ | medium | pending |
 | SYSTEM | Заполнить cogs.csv | Себестоимость отсутствует → чистая прибыль неполная | medium | pending |
