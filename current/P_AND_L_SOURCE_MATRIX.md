@@ -16,7 +16,7 @@ _Основан на результатах WB_API_ACCESS_AUDIT.md._
 | ads | WB Advertising API | API (WB_API_TOKEN_ADS) | YES | real | yes | yes | — |
 | tax | Расчётный (УСН 6%/15%) | calculated | ESTIMATED | estimated | yes (estimate) | yes (estimate) | Уточнить режим налогообложения |
 | cogs | data/input/cogs.csv | file | NO | missing | no | no | Файл cogs.csv отсутствует |
-| net_profit | Все выше | derived | PARTIAL | estimated | partial | partial | ads + cogs недоступны → чистая прибыль неполная |
+| net_profit | Все выше | derived | PARTIAL | estimated | partial | partial | cogs.csv + налоговый режим → чистая прибыль неполная |
 
 ## Детали по компонентам
 

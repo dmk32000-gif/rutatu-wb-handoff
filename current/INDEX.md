@@ -1,6 +1,6 @@
 # RUTATU WB Agent — ChatGPT Handoff
 
-_Last updated: 2026-04-20T17:56:18_
+_Last updated: 2026-04-20T18:39:13_
 
 ---
 
@@ -58,7 +58,7 @@ _Last updated: 2026-04-20T17:56:18_
 | Missing экономика | 0 |
 | Нет упаковки | 0 |
 | Блокеры качества | 0 |
-| Предупреждений | 227 |
+| Предупреждений | 257 |
 | Досорт черновик | PRODUCTION_IN_PROGRESS |
 | Производственный заказ | Активен |
 | FBS seller warehouse stock | zero ✅ |
