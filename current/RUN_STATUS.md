@@ -1,6 +1,6 @@
 # RUN_STATUS
 
-current_state: SUBMITTED_TO_WB_PENDING_LABELS
+current_state: WRONG_SUPPLY_TYPE_PENDING_RECREATE
 active_model: production_backed
 warehouse: Электросталь
 total_sku: 15

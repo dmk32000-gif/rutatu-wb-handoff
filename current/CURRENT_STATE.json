@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-04-21T05:47:43",
+  "generated_at": "2026-04-21T06:43:21",
   "project": "rutatu_wb_agent",
   "dashboard_version": "v1.1",
   "active_model": "production_backed",
-  "current_state": "SUBMITTED_TO_WB_PENDING_LABELS",
+  "current_state": "WRONG_SUPPLY_TYPE_PENDING_RECREATE",
   "total_sku": 285,
   "real_positive_economics_count": 60,
   "real_negative_economics_count": 55,
@@ -14,7 +14,7 @@
   "warning_count": 257,
   "active_draft": {
     "warehouse": "Электросталь",
-    "status": "SUBMITTED_TO_WB_PENDING_LABELS",
+    "status": "WRONG_SUPPLY_TYPE_PENDING_RECREATE",
     "sku_count": 15,
     "qty": 282,
     "boxes": 1,
@@ -45,7 +45,7 @@
     "delete_inventory_used": false,
     "last_execution_at": "2026-04-20T17:03:57",
     "last_verify_at": "2026-04-20T17:03:57",
-    "last_preflight_at": "2026-04-21T05:47:27"
+    "last_preflight_at": "2026-04-21T05:58:08"
   },
   "label_status": {
     "box_label_available": false,
