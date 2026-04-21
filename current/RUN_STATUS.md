@@ -1,6 +1,6 @@
 # RUN_STATUS
 
-current_state: SUBMITTED_TO_WB_PENDING_FOX2BOX_HANDOVER
+current_state: SUBMITTED_TO_WB_PENDING_LABELS
 active_model: production_backed
 warehouse: Электросталь
 total_sku: 15
