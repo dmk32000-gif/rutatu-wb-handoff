@@ -1,6 +1,8 @@
 # RUN_STATUS
 
-current_state: WRONG_SUPPLY_TYPE_PENDING_RECREATE
+current_state: WRONG_SUPPLY_TYPE_PENDING_MANUAL_FBO_CREATE
+fbo_supply_id: null
+fox2box_handover_allowed: false
 active_model: production_backed
 warehouse: Электросталь
 total_sku: 15
@@ -9,6 +11,8 @@ boxes: 1
 production_order_sent_at: 2026-04-19
 production_due_at: 2026-04-21
 production_completed_at: 2026-04-20
+submitted_to_wb_at: 2026-04-21
+wb_supply_id: WB-GI-232323720
 submitted_to_wb_at: 2026-04-20
 wb_supply_id: WB-GI-232254686
 shipment_ready_at: 2026-04-21

@@ -1,6 +1,6 @@
 # RUTATU WB Agent — ChatGPT Handoff
 
-_Last updated: 2026-04-21T06:43:21_
+_Last updated: 2026-04-21T07:38:27_
 
 ---
 
@@ -10,7 +10,7 @@ _Last updated: 2026-04-21T06:43:21_
 |---|---|
 | Active model | production_backed |
 | Dashboard version | v1.1 |
-| Production status | WRONG_SUPPLY_TYPE_PENDING_RECREATE |
+| Production status | WRONG_SUPPLY_TYPE_PENDING_MANUAL_FBO_CREATE |
 | Active draft | Электросталь |
 | Production due | 2026-04-21 |
 | Total SKU | 285 |
@@ -22,7 +22,7 @@ _Last updated: 2026-04-21T06:43:21_
 
 ### Next action
 
-Статус производства: **WRONG_SUPPLY_TYPE_PENDING_RECREATE**.
+Статус производства: **WRONG_SUPPLY_TYPE_PENDING_MANUAL_FBO_CREATE**.
 Следующая отгрузка: **2026-04-21**.
 
 ---
@@ -59,7 +59,7 @@ _Last updated: 2026-04-21T06:43:21_
 | Нет упаковки | 0 |
 | Блокеры качества | 0 |
 | Предупреждений | 257 |
-| Досорт черновик | WRONG_SUPPLY_TYPE_PENDING_RECREATE |
+| Досорт черновик | WRONG_SUPPLY_TYPE_PENDING_MANUAL_FBO_CREATE |
 | Производственный заказ | Активен |
 | FBS seller warehouse stock | zero ✅ |
 | Last FBS clear | 62 rows / 1367 units / verified zero |

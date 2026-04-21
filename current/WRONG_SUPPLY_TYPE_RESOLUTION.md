@@ -2,7 +2,7 @@
 
 ## Проблема
 
-Поставка `WB-GI-232254686` создана как **FBS** (по ID с префиксом `WB-GI-`).
+Поставка `WB-GI-232323720` создана как **FBS** (по ID с префиксом `WB-GI-`).
 
 FBS-поставки предназначены для отправки со склада продавца (FBS = Fulfillment by Seller).
 Для пополнения FBO-склада Wildberries нужна поставка с `deliveryType=fbo`.
@@ -49,7 +49,7 @@ python -m app.cli wb recreate-current-supply --mode execute
 
 ## Статус
 
-detected_at: 2026-04-21T03:41:28Z
-original_supply_id: WB-GI-232254686
+detected_at: 2026-04-21T04:09:06Z
+original_supply_id: WB-GI-232323720
 original_type: FBS
 action_required: RECREATE_WITH_FBO_TYPE

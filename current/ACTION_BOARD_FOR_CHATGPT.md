@@ -1,5 +1,18 @@
 # ACTION_BOARD_FOR_CHATGPT
-_Автогенерировано 2026-04-21T06:43:21._
+_Автогенерировано 2026-04-21T07:38:27._
+
+## КРИТИЧЕСКИЙ БЛОКЕР: Требуется ручное создание FBO поставки
+
+next_action: Создать FBO поставку вручную в seller.wildberries.ru
+no_more_api_recreate: true
+manual_cabinet_creation_required: true
+wrong_supply_ids: ['WB-GI-232254686', 'WB-GI-232323720']
+
+### Инструкция
+1. Открыть https://seller.wildberries.ru
+2. Поставки → FBW → Склад WB → Создать поставку
+3. После создания: `.venv\Scripts\python.exe -m app.cli wb register-supply <числовой_id>`
+4. Полная инструкция: `MANUAL_FBO_CREATE_INSTRUCTIONS.md`
 
 ## Доска действий
 
@@ -52,6 +65,7 @@ _Автогенерировано 2026-04-21T06:43:21._
 | 078-17x5-snows | Досортить при партии | transport_share_above_hard_gate | low | waiting_for_batch |
 | 291-8x24-nadpisi-ya-tebya-lublu | Досортить при партии | transport_share_above_hard_gate | low | waiting_for_batch |
 | RUTATUWRD477-12x16-nadpisi | Досортить при партии | transport_share_above_hard_gate | low | waiting_for_batch |
+| SYSTEM | Создать FBO поставку вручную | WB API создаёт только FBS — нужен ручной FBO | critical | pending |
 | SYSTEM | FBS seller stock cleared | Обнуление выполнено: 62 rows / 1367 units | low | completed |
 | SYSTEM | Заполнить экономику | 170 SKU с placeholder 50 ₽ | medium | pending |
 | SYSTEM | Заполнить cogs.csv | Себестоимость отсутствует → чистая прибыль неполная | medium | pending |
