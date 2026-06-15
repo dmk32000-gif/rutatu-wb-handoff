@@ -1,17 +1,14 @@
 {
-  "generated_at": "2026-04-21T07:38:27",
+  "generated_at": "2026-04-21T11:53:44",
   "project": "rutatu_wb_agent",
   "dashboard_version": "v1.1",
   "active_model": "production_backed",
-  "current_state": "WRONG_SUPPLY_TYPE_PENDING_MANUAL_FBO_CREATE",
+  "current_state": "LABELS_PRINTED_PENDING_FOX2BOX_HANDOVER",
   "fbo_supply_id": null,
-  "fox2box_handover_allowed": false,
-  "label_workflow_allowed": false,
-  "wrong_supply_ids": [
-    "WB-GI-232254686",
-    "WB-GI-232323720"
-  ],
-  "next_action": "Create FBO supply manually in seller.wildberries.ru, then register numeric ID",
+  "fox2box_handover_allowed": null,
+  "label_workflow_allowed": null,
+  "wrong_supply_ids": [],
+  "next_action": "Continue normal workflow",
   "total_sku": 285,
   "real_positive_economics_count": 60,
   "real_negative_economics_count": 55,
@@ -22,11 +19,11 @@
   "warning_count": 257,
   "active_draft": {
     "warehouse": "Электросталь",
-    "status": "WRONG_SUPPLY_TYPE_PENDING_MANUAL_FBO_CREATE",
+    "status": "LABELS_PRINTED_PENDING_FOX2BOX_HANDOVER",
     "sku_count": 15,
     "qty": 282,
     "boxes": 1,
-    "production_due_at": "2026-04-21"
+    "production_due_at": null
   },
   "profit_engine": {
     "finance_api_available": true,
@@ -41,9 +38,9 @@
   },
   "wb_seller_stock_clear": {
     "status": "executed",
-    "seller_warehouses_found": 0,
-    "sku_to_zero": 0,
-    "units_to_zero": 0,
+    "seller_warehouses_found": 1,
+    "sku_to_zero": 1,
+    "units_to_zero": 18,
     "seller_warehouse_id": 135327,
     "seller_warehouse_name": "Мой склад",
     "last_execution_rows_updated": 62,
@@ -53,7 +50,7 @@
     "delete_inventory_used": false,
     "last_execution_at": "2026-04-20T17:03:57",
     "last_verify_at": "2026-04-20T17:03:57",
-    "last_preflight_at": "2026-04-21T07:37:43"
+    "last_preflight_at": "2026-04-21T11:47:49"
   },
   "label_status": {
     "box_label_available": false,

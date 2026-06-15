@@ -1,14 +1,14 @@
 # RESTOCK_CURRENT_FOR_CHATGPT
-_Автогенерировано 2026-04-21T07:38:27._
+_Автогенерировано 2026-04-21T11:53:44._
 
 ## Текущий досорт
 
-**Статус:** WRONG_SUPPLY_TYPE_PENDING_MANUAL_FBO_CREATE
+**Статус:** LABELS_PRINTED_PENDING_FOX2BOX_HANDOVER
 **Склад:** Электросталь
 **SKU:** 15
 **Единиц:** 282 шт
 **Коробок:** 1
-**Производство готово:** 2026-04-21
+**Производство готово:** 
 **Отправлен:** 2026-04-19
 
 ## SKU в производстве
@@ -21,8 +21,14 @@ _Автогенерировано 2026-04-21T07:38:27._
 | RUTATUslv364-16x48-dragon | 125.62 ₽ | tube_63x170 |
 | 498-16x48-flowers-and-berries | 120.19 ₽ | tube_63x170 |
 | 082-16x48-peonies | 114.94 ₽ | tube_63x170 |
+| 341-16x48-fairy | 113.88 ₽ | tube_63x170 |
+| 357-16x48-snake | 103.30 ₽ | tube_63x170 |
 | 108-16x24-meh-arab | 77.99 ₽ | tattoo_packet |
+| 272-16x48-flowers | 76.30 ₽ | tube_63x170 |
+| 356-24x32-lotus | 67.43 ₽ | tube_63x235 |
 | 110-16x24-lotus | 58.13 ₽ | tattoo_packet |
+| 288-6х16-karakuli | 50.00 ₽ | tattoo_packet |
+| 470-16x48-sleeve | 50.00 ₽ | tube_63x170 |
 | 144-12x16-twigs | 39.74 ₽ | tattoo_packet |
 | 075-16x24-cross | 36.02 ₽ | tattoo_packet |
 | RUTATUani362-12x16-bear | 35.84 ₽ | tattoo_packet |

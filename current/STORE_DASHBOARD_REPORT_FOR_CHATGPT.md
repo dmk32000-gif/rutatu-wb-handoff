@@ -1,5 +1,5 @@
 # STORE_DASHBOARD_REPORT_FOR_CHATGPT
-_Автогенерировано 2026-04-21T07:38. Передавать в ChatGPT вместо zip._
+_Автогенерировано 2026-04-21T11:53. Передавать в ChatGPT вместо zip._
 
 ---
 
@@ -98,11 +98,11 @@ _Автогенерировано 2026-04-21T07:38. Передавать в Chat
 | Убыточных SKU | 55 |
 | Placeholder экономика (50 ₽) | 170 |
 | Нет профиля упаковки | 0 |
-| Нет тарифа | 2 |
-| Кандидаты на досорт (при партии) | 49 |
+| Нет тарифа | 5 |
+| Кандидаты на досорт (при партии) | 47 |
 | Блокеры качества данных | 0 |
 | Производство активно | Нет |
-| Статус черновика | WRONG_SUPPLY_TYPE_PENDING_MANUAL_FBO_CREATE |
+| Статус черновика | LABELS_PRINTED_PENDING_FOX2BOX_HANDOVER |
 
 ---
 
@@ -110,12 +110,12 @@ _Автогенерировано 2026-04-21T07:38. Передавать в Chat
 
 | Параметр | Значение |
 |---|---|
-| Статус | WRONG_SUPPLY_TYPE_PENDING_MANUAL_FBO_CREATE |
+| Статус | LABELS_PRINTED_PENDING_FOX2BOX_HANDOVER |
 | Склад | Электросталь |
 | SKU | 15 |
 | Единиц | 282 шт |
 | Коробок | 1 |
-| Производство готово | 2026-04-21 |
+| Производство готово |  |
 | Заказ отправлен | 2026-04-19 |
 
 ---
@@ -151,18 +151,18 @@ _Автогенерировано 2026-04-21T07:38. Передавать в Chat
 | 471-10х48-lotus | В производстве | Активное производство | low | in_progress |
 | RUTATUslv375-16x48-rose | В производстве | Активное производство | low | in_progress |
 | RUTATUslv192-16x48-mehendi | В производстве | Активное производство | low | in_progress |
-| 148-24x32-magnolia | Досортить при партии | Транспорт >5% | low | waiting_for_batch |
+| 148-24x32-magnolia | Досортить при партии | borderline_economics_no_red_zone | low | waiting_for_batch |
 | RUTATUslv217-16x48-flowers | Досортить при партии | Транспорт >5% | low | waiting_for_batch |
 | RUTATUGAR269-10x48-lotus-ornament | Досортить при партии | Транспорт >5% | low | waiting_for_batch |
 | RUTATUslv364-16x48-dragon | В производстве | Активное производство | low | in_progress |
 | 498-16x48-flowers-and-berries | В производстве | Активное производство | low | in_progress |
 | 150-24x32-rose | Досортить при партии | Транспорт >5% | low | waiting_for_batch |
 | 082-16x48-peonies | В производстве | Активное производство | low | in_progress |
-| 341-16x48-fairy | Досортить при партии | Транспорт >5% | low | waiting_for_batch |
+| 341-16x48-fairy | В производстве | Активное производство | low | in_progress |
 | 132-16x48-pattern | Досортить при партии | Транспорт >5% | low | waiting_for_batch |
 | 080-24x32-peonies | Досортить при партии | Транспорт >5% | low | waiting_for_batch |
 | RUTATUslv361-16x48-skull | Досортить при партии | Транспорт >5% | low | waiting_for_batch |
-| 357-16x48-snake | Досортить при партии | Транспорт >5% | low | waiting_for_batch |
+| 357-16x48-snake | В производстве | Активное производство | low | in_progress |
 | 292-16x48-zmeya-tsveti | Досортить при партии | Транспорт >5% | low | waiting_for_batch |
 | 219-24x16-uzor-pod-grud | Досортить при партии | Транспорт >5% | low | waiting_for_batch |
 | 338-16x48-sleeve | Досортить при партии | Транспорт >5% | low | waiting_for_batch |

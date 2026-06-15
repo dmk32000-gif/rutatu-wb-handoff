@@ -1,18 +1,5 @@
 # ACTION_BOARD_FOR_CHATGPT
-_Автогенерировано 2026-04-21T07:38:27._
-
-## КРИТИЧЕСКИЙ БЛОКЕР: Требуется ручное создание FBO поставки
-
-next_action: Создать FBO поставку вручную в seller.wildberries.ru
-no_more_api_recreate: true
-manual_cabinet_creation_required: true
-wrong_supply_ids: ['WB-GI-232254686', 'WB-GI-232323720']
-
-### Инструкция
-1. Открыть https://seller.wildberries.ru
-2. Поставки → FBW → Склад WB → Создать поставку
-3. После создания: `.venv\Scripts\python.exe -m app.cli wb register-supply <числовой_id>`
-4. Полная инструкция: `MANUAL_FBO_CREATE_INSTRUCTIONS.md`
+_Автогенерировано 2026-04-21T11:53:44._
 
 ## Доска действий
 
@@ -21,18 +8,18 @@ wrong_supply_ids: ['WB-GI-232254686', 'WB-GI-232323720']
 | 471-10х48-lotus | В производстве | active_production_order | low | in_progress |
 | RUTATUslv375-16x48-rose | В производстве | active_production_order | low | in_progress |
 | RUTATUslv192-16x48-mehendi | В производстве | active_production_order | low | in_progress |
-| 148-24x32-magnolia | Досортить при партии | transport_share_above_hard_gate | low | waiting_for_batch |
+| 148-24x32-magnolia | Досортить при партии | borderline_economics_no_red_zone | low | waiting_for_batch |
 | RUTATUslv217-16x48-flowers | Досортить при партии | transport_share_above_hard_gate | low | waiting_for_batch |
 | RUTATUGAR269-10x48-lotus-ornament | Досортить при партии | transport_share_above_hard_gate | low | waiting_for_batch |
 | RUTATUslv364-16x48-dragon | В производстве | active_production_order | low | in_progress |
 | 498-16x48-flowers-and-berries | В производстве | active_production_order | low | in_progress |
 | 150-24x32-rose | Досортить при партии | transport_share_above_hard_gate | low | waiting_for_batch |
 | 082-16x48-peonies | В производстве | active_production_order | low | in_progress |
-| 341-16x48-fairy | Досортить при партии | transport_share_above_hard_gate | low | waiting_for_batch |
+| 341-16x48-fairy | В производстве | active_production_order | low | in_progress |
 | 132-16x48-pattern | Досортить при партии | transport_share_above_hard_gate | low | waiting_for_batch |
 | 080-24x32-peonies | Досортить при партии | transport_share_above_hard_gate | low | waiting_for_batch |
 | RUTATUslv361-16x48-skull | Досортить при партии | transport_share_above_hard_gate | low | waiting_for_batch |
-| 357-16x48-snake | Досортить при партии | transport_share_above_hard_gate | low | waiting_for_batch |
+| 357-16x48-snake | В производстве | active_production_order | low | in_progress |
 | 292-16x48-zmeya-tsveti | Досортить при партии | transport_share_above_hard_gate | low | waiting_for_batch |
 | 219-24x16-uzor-pod-grud | Досортить при партии | transport_share_above_hard_gate | low | waiting_for_batch |
 | 338-16x48-sleeve | Досортить при партии | transport_share_above_hard_gate | low | waiting_for_batch |
@@ -40,16 +27,17 @@ wrong_supply_ids: ['WB-GI-232254686', 'WB-GI-232323720']
 | 508-24х32-flowers | Досортить при партии | transport_share_above_hard_gate | low | waiting_for_batch |
 | 149-24x32-zephyrantes | Досортить при партии | transport_share_above_hard_gate | low | waiting_for_batch |
 | RUTATU376-16x24-lotos | Досортить при партии | transport_share_above_hard_gate | low | waiting_for_batch |
-| 510-16x48-flowers | Досортить при партии | transport_share_above_hard_gate | low | waiting_for_batch |
+| 510-16x48-flowers | Добавить тариф | route_tariff_incomplete | medium | blocked |
 | 331-24x32-snake | Досортить при партии | transport_share_above_hard_gate | low | waiting_for_batch |
 | RUTATUCHST265-24x32-boho | Досортить при партии | transport_share_above_hard_gate | low | waiting_for_batch |
 | 108-16x24-meh-arab | В производстве | active_production_order | low | in_progress |
-| 272-16x48-flowers | Досортить при партии | transport_share_above_hard_gate | low | waiting_for_batch |
-| 356-24x32-lotus | Досортить при партии | transport_share_above_hard_gate | low | waiting_for_batch |
+| 272-16x48-flowers | В производстве | active_production_order | low | in_progress |
+| 356-24x32-lotus | В производстве | active_production_order | low | in_progress |
 | 289-16x24-pistol | Досортить при партии | transport_share_above_hard_gate | low | waiting_for_batch |
 | 110-16x24-lotus | В производстве | active_production_order | low | in_progress |
+| 288-6х16-karakuli | В производстве | active_production_order | low | in_progress |
+| 470-16x48-sleeve | В производстве | active_production_order | low | in_progress |
 | 236-12x16-babochka | Досортить при партии | transport_share_above_hard_gate | low | waiting_for_batch |
-| 340-24x32-lion | Досортить при партии | transport_share_above_hard_gate | low | waiting_for_batch |
 | 144-12x16-twigs | В производстве | active_production_order | low | in_progress |
 | 379-24x32-zmeya-drakon-pistolet | Досортить при партии | transport_share_above_hard_gate | low | waiting_for_batch |
 | 075-16x24-cross | В производстве | active_production_order | low | in_progress |
@@ -64,8 +52,6 @@ wrong_supply_ids: ['WB-GI-232254686', 'WB-GI-232323720']
 | 399-12x16-tsveti | В производстве | active_production_order | low | in_progress |
 | 078-17x5-snows | Досортить при партии | transport_share_above_hard_gate | low | waiting_for_batch |
 | 291-8x24-nadpisi-ya-tebya-lublu | Досортить при партии | transport_share_above_hard_gate | low | waiting_for_batch |
-| RUTATUWRD477-12x16-nadpisi | Досортить при партии | transport_share_above_hard_gate | low | waiting_for_batch |
-| SYSTEM | Создать FBO поставку вручную | WB API создаёт только FBS — нужен ручной FBO | critical | pending |
 | SYSTEM | FBS seller stock cleared | Обнуление выполнено: 62 rows / 1367 units | low | completed |
 | SYSTEM | Заполнить экономику | 170 SKU с placeholder 50 ₽ | medium | pending |
 | SYSTEM | Заполнить cogs.csv | Себестоимость отсутствует → чистая прибыль неполная | medium | pending |
